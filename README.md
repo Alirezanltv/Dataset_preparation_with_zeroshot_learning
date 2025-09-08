@@ -64,9 +64,7 @@ requests>=2.25.0
 
 Run the script to download images and detect objects:
 
-```bash
-python yolo_world_detection.py
-```
+
 
 The script will:
 1. Ask you which topic you want to search for images
@@ -80,7 +78,7 @@ The script will:
 For a more user-friendly interface, run the Streamlit app:
 
 ```bash
-streamlit run yolo_world_ui.py
+streamlit run UI_dataset_preparation.py
 ```
 
 This will open a web interface where you can:
