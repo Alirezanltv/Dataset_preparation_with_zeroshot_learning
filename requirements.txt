@@ -1,0 +1,8 @@
+ddgs>=8.0.0
+requests>=2.31.0,<3.0.0
+tqdm>=4.66.0,<5.0.0
+typing-extensions>=4.7.0,<5.0.0
+selenium>=4.21.0,<5.0.0
+undetected-chromedriver>=3.5.5,<4.0.0
+webdriver-manager>=4.0.0
+ultralytics
